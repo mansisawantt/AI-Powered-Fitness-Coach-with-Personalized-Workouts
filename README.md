@@ -67,3 +67,9 @@ streamlit run app.py
 6. Optional PDF creation for downloading the workout plan
 6. Plan is stored in session history for future reference
 
+## Tech Stack Used
+Python 3.10
+Streamlit
+OpenAI (Generative AI)
+LangChain
+
