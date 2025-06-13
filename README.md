@@ -69,7 +69,10 @@ streamlit run app.py
 
 ## Tech Stack Used
 Python 3.10
+
 Streamlit
+
 OpenAI (Generative AI)
+
 LangChain
 
